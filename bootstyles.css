@@ -1,0 +1,46 @@
+body{
+    background-color: pink;
+    resize: both;
+}
+.tableauspace{
+    padding-left: 150px;
+    padding-right: 150px
+}
+.tableautext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    color:linen;
+}
+.tableautitle{
+    font-family: cursive;
+    color:seashell
+   
+}
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #eca1d3;
+    color: white;
+    resize:both;
+    
+  }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(206, 199, 204);
+    color: rgb(3, 2, 3);
+    text-align: center;
+    resize:both;
+}
+.mainbody{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    color:linen; 
+    resize:both;
+    background-color: pink;
+    resize: both;
+    padding-left: 150px;
+}
+

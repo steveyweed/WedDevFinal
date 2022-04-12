@@ -1,0 +1,57 @@
+h1{
+    font-family:fantasy;
+}
+/*this will be applied to the about and index pages*/
+.headCenter{
+    text-align: center;
+}
+.intro{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.paddingSpace{
+    padding: 20px;
+}
+li{
+    padding-bottom: 10px;
+}
+.nopadding{
+    padding-bottom: 0px;
+}
+.resumetitle{
+    font-family: cursive;
+    color:rgb(177, 43, 87);
+}
+.bold{
+    font-style: oblique;
+}
+.aboutbackground{
+    border-color:ghostwhite;
+    color:  rgb(223, 124, 141);
+}
+p {
+    text-align: center;
+}
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+}
+.box{
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(207, 133, 207)
+}
+
+a:hover{
+    color:rgb(192, 51, 110);
+}
+a:visited{
+    color:rgb(129, 26, 115);
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
